@@ -18,24 +18,24 @@ https://leetcode.com/studyplan/top-interview-150/
 
 > Run `python scripts/update_stats.py` to update automatically.
 
-- Total solved: **__TOTAL__**
+- Total solved: **1**
 
 | Category | Solved |
 |--------|--------|
-| Array / String | __AS__ |
-| Two Pointers | __TP__ |
-| Sliding Window | __SW__ |
-| Matrix | __MX__ |
-| Hashmap | __HM__ |
-| Intervals | __IN__ |
-| Stack | __ST__ |
-| Linked List | __LL__ |
-| Binary Tree | __BT__ |
-| BST | __BST__ |
-| Graph | __GR__ |
-| Backtracking | __BK__ |
-| DP | __DP__ |
-| Bit Manipulation | __BIT__ |
+| Array / String | 0 |
+| Two Pointers | 1 |
+| Sliding Window | 0 |
+| Matrix | 0 |
+| Hashmap | 0 |
+| Intervals | 0 |
+| Stack | 0 |
+| Linked List | 0 |
+| Binary Tree | 0 |
+| BST | 0 |
+| Graph | 0 |
+| Backtracking | 0 |
+| DP | 0 |
+| Bit Manipulation | 0 |
 
 ---
 
