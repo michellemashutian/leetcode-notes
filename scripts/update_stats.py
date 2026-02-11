@@ -19,6 +19,7 @@ MAP = {
     "backtracking": "__BK__",
     "dp": "__DP__",
     "bit": "__BIT__",
+    "voting_algorithm": "__VA__",
 }
 
 def count(folder):
