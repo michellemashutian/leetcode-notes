@@ -2,7 +2,7 @@
 
 My LeetCode practice notes — one file per problem, with the pattern, key idea, edge cases, and complexity in my own words.
 
-- List: NeetCode 150 (free Medium problems, in order)
+- List: free Medium problems, in order
 - Pace: one Medium problem a day
 - Format: `solutions/<category>/<4-digit-id>_<slug>.py`
 
